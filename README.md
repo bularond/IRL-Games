@@ -7,3 +7,4 @@
 
 ## Список игр
 * [Дюна](https://github.com/bularond/IRL-Games/blob/master/dune/dune.md)
+* [Хакеры](https://github.com/bularond/IRL-Games/blob/master/hackers/hakers.md)
