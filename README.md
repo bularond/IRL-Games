@@ -5,6 +5,9 @@
 Чтобы поиграть вам необходимо определенное количество мастеров игры и минимальное количество инвентаря 
 (бумага обычная и крафтовая, цветной и малярный скотч и маркеры).
 
-## Список игр
+## Список проверенных игр
+* [Цивилизация](https://github.com/bularond/IRL-Games/blob/master/civilization/civilization.md)
+
+## Список непроведенных игр
 * [Дюна](https://github.com/bularond/IRL-Games/blob/master/dune/dune.md)
 * [Хакеры](https://github.com/bularond/IRL-Games/blob/master/hackers/hakers.md)
