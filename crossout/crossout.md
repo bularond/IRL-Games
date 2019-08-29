@@ -1,6 +1,6 @@
 # Crossout #
 Создатели:
- - [S. Rich](vk.com/bulub)
+ - [S. Rich](https://vk.com/bulub)
 
 ## Разделение на команды ##
 Игроков делят на 2 равные команды.
