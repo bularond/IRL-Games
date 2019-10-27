@@ -5,6 +5,9 @@
 Чтобы поиграть вам необходимо определенное количество мастеров игры и минимальное количество инвентаря 
 (бумага обычная и крафтовая, цветной и малярный скотч и маркеры).
 
+## Справочный материал ##
+* ["Как Провести Ночную Игру И Не Потерять Звание"](https://github.com/bularond/IRL-Games/blob/master/nightgame/How_To_Make_A_Night_Game.md) от S. Edwyn
+
 ## Список проверенных игр
 * [Цивилизация](https://github.com/bularond/IRL-Games/blob/master/civilization/civilization.md)
 * [Crossout](https://github.com/bularond/IRL-Games/blob/master/crossout/crossout.md)
