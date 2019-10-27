@@ -1,8 +1,7 @@
 # Crossout #
 
 Создатели:
-
-- [S. Rich](vk.com/bulub)
+ - [S. Rich](https://vk.com/bulub)
 
 ## Разделение на команды ##
 
