@@ -8,6 +8,7 @@
 ## Список проверенных игр
 * [Цивилизация](https://github.com/bularond/IRL-Games/blob/master/civilization/civilization.md)
 * [Crossout](https://github.com/bularond/IRL-Games/blob/master/crossout/crossout.md)
+* [Две крепости](https://github.com/bularond/IRL-Games/blob/master/two_fortress/two_fortress.md)
 
 ## Список непроведенных игр
 * [Дюна](https://github.com/bularond/IRL-Games/blob/master/dune/dune.md)
